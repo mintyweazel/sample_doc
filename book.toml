@@ -1,0 +1,11 @@
+[book]
+title = "sample doc"
+authors = ["anon"]
+description = "sample doc"
+language = "en"
+multilingual = true
+src = "src"
+
+[output.html]
+mathjax-support = true 
+default-theme = "rust"
